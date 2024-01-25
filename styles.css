@@ -1,0 +1,45 @@
+body {
+    background-color: indigo;
+    color: aliceblue;
+}
+
+h1 {
+    font-size: 100px;
+    margin: 10px 0;
+}
+
+h1, h2 {
+    color: #2cfafa;
+}
+
+a {
+    color: aqua;
+}
+
+a.different-color {
+    color:black
+}
+
+.heading {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+img.header-image {
+    display: block;
+    margin: auto;
+    width: 75%;
+}
+
+ul.yellow-list > li {
+    color: yellow;
+}
+
+#External-Link {
+    background-color: rgb(168, 121, 201);
+    color: black;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
