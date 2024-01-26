@@ -1,6 +1,8 @@
 body {
     background-color: indigo;
     color: aliceblue;
+    margin: auto;
+    width: 900px;
 }
 
 h1 {
@@ -27,7 +29,7 @@ a {
 img.header-image {
     display: block;
     margin: auto;
-    width: 75%;
+    width:100%;
 }
 
 ul.yellow-list > li {
